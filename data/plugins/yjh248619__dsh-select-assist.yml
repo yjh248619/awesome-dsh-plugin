@@ -1,0 +1,7 @@
+url: https://github.com/yjh248619/dsh-select-assist
+name: yjh248619/dsh-select-assist
+category: tools
+tarball: https://github.com/yjh248619/dsh-select-assist/releases/download/v0.9.7/dsh-select-assist-0.9.7.tgz
+description:
+  en: 'Windows selection assistant for DeepSeek Harness: select text in any app to explain, summarize or translate it in an always-on-top overlay, or send the quote into a DSH conversation — the current session when selecting inside DSH, a new one otherwise.'
+  zh: 'Windows 划词助手：在任意应用里选中文字，用置顶浮窗解释、总结或翻译，或把引用送进 DSH 会话——在 DSH 内划词进当前会话，在别处划词新开会话。'
